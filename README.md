@@ -13,7 +13,8 @@ This program exporting images from pdf file.
 - Medium - 300
 - High - 1000
 
-
+# Language
+- C# .net freamwork 4.5
 
 
 
