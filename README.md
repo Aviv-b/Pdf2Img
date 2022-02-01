@@ -20,7 +20,7 @@ This program exporting images from pdf file.
 # Language
 - C# .net freamwork 4.5
 
-# Virus Scan result 
+# Scan result 
 https://www.virustotal.com/gui/file/6333398622c36dcc40c49f7f26437feb069aaf31ac03a9b9f0cc6c3cbfdd50f5/detection
 
 
