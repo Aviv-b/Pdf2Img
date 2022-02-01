@@ -5,7 +5,7 @@ This program exporting images from pdf file.
 
 
 
-## Supported Output formats:
+## Supported image formats:
 - Bmp 
 - Jpeg
 - Gif 
