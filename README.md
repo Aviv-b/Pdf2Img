@@ -1,4 +1,4 @@
-# Pdf2Img   <img alt="GitHub" src="https://img.shields.io/github/license/aviv-b/Pdf2Img">
+# Pdf2Img   <img alt="GitHub" src="https://img.shields.io/github/license/aviv-b/Pdf2Img"><img alt="GitHub" src="https://img.shields.io/github/repo-size/aviv-b/Pdf2Img">
 This program exporting images from pdf file.
 
 ![pici](https://user-images.githubusercontent.com/51339282/151941984-a283a5d5-22fd-4515-bb85-a685c52c7d2e.PNG)
